@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/_sivareddyyy/" target="_blank">
+  <a href="https://www.instagram.com/cvilaesthetic/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
