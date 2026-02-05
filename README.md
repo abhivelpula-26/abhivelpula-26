@@ -11,7 +11,7 @@
 🎓 B.Tech CSE (AI & ML) Student at **Parul University**  
 💡 Passionate about **Anroid app developing, & Machine Learning & AI**  
 🚀 Actively looking for **Campus Placement Opportunities**  
-📍 From kadapa, Andhra Pradesh, India  
+📍 From Bhadrachalam, telangana, India  
 
 ---
 
