@@ -6,7 +6,7 @@
 
 ---
 
-# ☠️ About Me
+# ✨ About Me
 
 🎓 B.Tech CSE (AI & ML) Student at **Parul University**  
 📱 Passionate about **Android App Development & AI/ML**  
