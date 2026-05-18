@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Abhivelpula</h1>
+<h1 align="center">Hey there , I'm Abhivelpula</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2A8&size=24&center=true&vCenter=true&width=700&lines=Android+Developer;AI+%26+Machine+Learning+Explorer;Building+Creative+Projects;Always+Curious+to+Learn+More!" />
